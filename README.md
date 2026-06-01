@@ -12,7 +12,7 @@ AI-powered application that converts natural language into SQL queries using LLM
 - Python
 - Streamlit
 - SQL Server (pyodbc)
-- LLM API (Grok / OpenAI compatible)
+- LLM API (Grok xAI )
 - REST APIs
 
 ## 🔹 How It Works
